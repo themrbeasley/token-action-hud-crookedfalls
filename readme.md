@@ -56,6 +56,8 @@ For a guide on using Token Action HUD, go to: [How to Use Token Action HUD](http
 
 - **themrbeasley** — Module author and Crooked Falls system designer
 - **Larkinabout** — Creator of Token Action HUD Core and the companion module template
+- **DJ-JackJack** — Creator of the Crooked Falls TTRPG and Game System
+- **Claude Code** — With Claude Code's assistance, bug-busting and workflows have become really efficient, we got this done rather quickly. 
 
 Thank you to the Community Helpers on Foundry's Discord who provide tireless support for people seeking help with the HUD.
 
